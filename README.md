@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="2.jpg"
+    src="2-1.jpg"
     alt="Road Runner"
     width="100%"
     style="max-width: 1000px; border-radius: 12px;"
